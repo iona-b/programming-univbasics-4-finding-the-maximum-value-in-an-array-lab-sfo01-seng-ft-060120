@@ -1,5 +1,3 @@
-require 'pry'
-
 def find_max_value(array)
   counter = 0 
   highest_value = 0

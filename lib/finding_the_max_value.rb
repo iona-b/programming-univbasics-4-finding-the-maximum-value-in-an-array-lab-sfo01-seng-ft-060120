@@ -10,5 +10,5 @@ def find_max_value(array)
     end
     counter += 1
   end
-puts highest_value
+p highest_value
 end
